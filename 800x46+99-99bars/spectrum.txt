@@ -1,0 +1,28 @@
+[balbuze_top]
+origin.x = 55
+origin.y = 44
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 80,80,80
+bgr.gradient =
+bgr.filename = 99-bars-freq_5_bgr.png
+
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (0,255,0)(255,0,0)
+bar.filename = 99-bars-freq_50_indica.png
+bar.width = 6
+bar.height = 46
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2

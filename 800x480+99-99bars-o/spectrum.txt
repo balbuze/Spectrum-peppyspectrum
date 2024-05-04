@@ -1,0 +1,57 @@
+[black-balbuze99]
+origin.x = 55
+origin.y = 420
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = 99-bars-freq_480_bbgr.png
+
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 5
+bar.height = 420
+bar.gap = 2
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+[white-balbuze99]
+origin.x = 55
+origin.y = 420
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = 99-bars-freq_480_wbgr.png
+
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 5
+bar.height = 420
+bar.gap = 2
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2

@@ -1,0 +1,164 @@
+[G5_01Pipe]
+origin.x = 111
+origin.y = 304
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Pipe1_1480x400_bgr.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Pipe1_1480x400_indicator.png
+bar.width = 18
+bar.height = 215
+bar.gap = 18
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = Pipe1_1480x400_fgr.png
+steps = 25
+
+topping.height = 2
+topping.step = 4
+
+[G5_02Pipe]
+origin.x = 89
+origin.y = 366
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = OldPipe_1280_bgr.png
+
+bar.type = image.extended
+bar.color =
+bar.gradient =
+bar.filename = OldPipe_1280_indicator.png
+bar.width = 22
+bar.height = 251
+bar.gap = 16
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = OldPipe_1280_fgr.png
+steps = 25
+topping.height = 2
+topping.step = 4
+[G5_03Nixie]
+origin.x = 252
+origin.y = 300
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Nixie1_1280_bgr.png
+
+bar.type = image.extended
+bar.color =
+bar.gradient =
+bar.filename = Nixie1_1280_indicator.png
+bar.width = 20
+bar.height = 231
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+topping.height = 2
+topping.step = 4
+[G5_04Pipe Wood]
+origin.x = 142
+origin.y = 233
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = PIPE_Wood_1280_bgr.png
+
+bar.type = image.extended
+bar.color =
+bar.gradient =
+bar.filename = PIPE_Wood_1280_indicator.png
+bar.width = 22
+bar.height = 80
+bar.gap = 12
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = PIPE_Wood_1280_fgr.png
+steps = 25
+topping.height = 2
+topping.step = 4
+[G5_05Pipe Gold]
+origin.x = 34
+origin.y = 186
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Gold_1280x400_bgr.png
+
+bar.type = image.extended
+bar.color =
+bar.gradient =
+bar.filename = Gold_1280x400_indicator.png
+bar.width = 27
+bar.height = 71
+bar.gap = 14
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = Gold_1280x400_fgr.png
+steps = 25
+topping.height = 2
+topping.step = 4
+[G5_06Nixie]
+origin.x = 151
+origin.y = 265
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Nixie2_1280_bgr.png
+
+bar.type = image.extended
+bar.color =
+bar.gradient =
+bar.filename = Nixie2_1280_indicator.png
+bar.width = 15
+bar.height = 182
+bar.gap = 18
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = Nixie2_1280_fgr.png
+steps = 25
+topping.height = 2
+topping.step = 4
