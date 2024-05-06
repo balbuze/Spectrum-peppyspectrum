@@ -23,3 +23,5 @@ reflection.filename =
 reflection.gap = 0
 fgr.filename =
 steps = 25
+topping.height = 2
+topping.step = 2
