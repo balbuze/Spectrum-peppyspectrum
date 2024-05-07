@@ -1,5 +1,5 @@
 1280x400+30-custom.zip
-1280x400x30-Gelo5.zip
+1280x400+30-Gelo5.zip
 1920x1080+13-Gelo5.zip
 1920x1080+30-Gelo5.zip
 1920x1080+55-Gelo5.zip
