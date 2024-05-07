@@ -1,0 +1,262 @@
+[G5_01Marshall]
+origin.x = 80
+origin.y = 460
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Marshall_bgr.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Marshall_indica.png
+bar.width = 29
+bar.height = 370
+bar.gap = 3
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Marshall_indica2.png
+reflection.gap = 18
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_02Kenwood]
+origin.x = 203
+origin.y = 550
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Kenwood.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Kenwood_ind.png
+bar.width = 26
+bar.height = 435
+bar.gap = 2
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Kenwood_ind2.png
+reflection.gap = 22
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_03M6100 Gold]
+origin.x = 270
+origin.y = 430
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = M6100_Gold.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = M6100_Gold_indic.png
+bar.width = 20
+bar.height = 320
+bar.gap = 5
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = M6100_Gold_indic_3.png
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_04Naim]
+origin.x = 110
+origin.y = 464
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Naim_1920.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Naim_1920_indi1.png
+bar.width = 29
+bar.height = 435
+bar.gap = 2
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Naim_1920_indi2.png
+reflection.gap = 12
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+
+[G5_05McIntosh]
+origin.x = 105
+origin.y = 555
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Mcintosh_1920.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Mcintosh_1920_indic.png
+bar.width = 30
+bar.height = 435
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 12
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_06Advance]
+origin.x = 110
+origin.y = 400
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = AdvenX220.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = AdvenX220_indi1.png
+bar.width = 29
+bar.height = 300
+bar.gap = 2
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = AdvenX220_indi2.png
+reflection.gap = 12
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_07Marantz]
+origin.x = 410
+origin.y = 594
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Marantz_1920.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Marantz_ind1.png
+bar.width = 18
+bar.height = 250
+bar.gap = 2
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Marantz_ind2.png
+reflection.gap = 12
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_07Luxman]
+origin.x = 55
+origin.y = 845
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Luxman_sp.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Luxman_indic.png
+bar.width = 31
+bar.height = 760
+bar.gap = 2
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 12
+fgr.filename = 
+steps = 15
+
+topping.height = 3
+topping.step = 3
+
+[G5_08Sansui]
+origin.x = 202
+origin.y = 966
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Sansui_1920S.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Sansui_1920S_indic.png
+bar.width = 22
+bar.height = 532
+bar.gap = 6
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 12
+fgr.filename = 
+steps = 15
+
+topping.height = 3
+topping.step = 3
+

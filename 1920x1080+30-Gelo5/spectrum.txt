@@ -1,0 +1,176 @@
+[G5_01Dorrought]
+origin.x = 68
+origin.y = 712
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = dorroughS_bgr.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = dorroughS_indica.png
+bar.width = 27
+bar.height = 595
+bar.gap = 26
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_02Nixie1]
+origin.x = 374
+origin.y = 588
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Nixie1_bgr.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Nixie1_indic.png
+bar.width = 30
+bar.height = 415
+bar.gap = 0
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+
+[G5_03Marshall]
+origin.x = 68
+origin.y = 460
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Marshall_bgr.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Marshall_indica.png
+bar.width = 50
+bar.height = 370
+bar.gap = 10
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Marshall_indica2.png
+reflection.gap = 18
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_04Kenwood]
+origin.x = 183
+origin.y = 550
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Kenwood.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Kenwood_ind.png
+bar.width = 43
+bar.height = 435
+bar.gap = 10
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = Kenwood_ind2.png
+reflection.gap = 22
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+
+[G5_05M6100 Gold]
+origin.x = 285
+origin.y = 430
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = M6100_Gold.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = M6100_Gold_indic.png
+bar.width = 40
+bar.height = 320
+bar.gap = 5
+
+reflection.type = image.extended
+reflection.color =
+reflection.gradient =
+reflection.filename = M6100_Gold_indic_3.png
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_06Neon2]
+origin.x = 0
+origin.y = 846
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Neon2_30.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Neon2_30_indi.png
+bar.width = 64
+bar.height = 843
+bar.gap = 0
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 27
+
+topping.height = 3
+topping.step = 3
+

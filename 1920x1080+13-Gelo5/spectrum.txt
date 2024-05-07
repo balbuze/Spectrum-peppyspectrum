@@ -1,0 +1,116 @@
+[G5_01PipeOld]
+origin.x = 206
+origin.y = 768
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = PIPE Old_5.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = PIPE Old_5_indic.png
+bar.width = 60
+bar.height = 267
+bar.gap = 61
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+
+[G5_02PipeOld2]
+origin.x = 175
+origin.y = 1042
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Pipe_Old2_13.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Pipe_Old2_13_indica.png
+bar.width = 34
+bar.height = 713
+bar.gap = 97
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_03Neon1]
+origin.x = 0
+origin.y = 846
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Neon1.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Neon1_indi.png
+bar.width = 148
+bar.height = 843
+bar.gap = 0
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
+
+[G5_04Neon2]
+origin.x = 0
+origin.y = 846
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = Neon2.png
+
+bar.type = image
+bar.color =
+bar.gradient =
+bar.filename = Neon2_indi.png
+bar.width = 148
+bar.height = 843
+bar.gap = 0
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename = 
+steps = 25
+
+topping.height = 3
+topping.step = 3
