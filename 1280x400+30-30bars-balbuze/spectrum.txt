@@ -1,0 +1,27 @@
+[black-led-balbuze30]
+origin.x = 13
+origin.y = 390
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = image
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = led-bar.png
+bar.width = 35
+bar.height = 370
+bar.gap = 7
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
