@@ -1,0 +1,256 @@
+[black-balbuze99]
+origin.x = 22
+origin.y = 710
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 710
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+[white-balbuze99]
+origin.x = 22
+origin.y = 710
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 255,255,255
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (2,2,2)(255,10,10)
+bar.filename = 
+bar.width = 18
+bar.height = 710
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-white-rb-balbuze99]
+origin.x = 20
+origin.y = 710
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 255,255,255
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (20,2,245)(255,10,10)
+bar.filename = 
+bar.width = 18
+bar.height = 710
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 1
+topping.step = 3
+
+[large-black-gr-balbuze99]
+origin.x = 20
+origin.y = 710
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 710
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-black-br-balbuze99]
+origin.x = 20
+origin.y = 710
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,5,255)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 710
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-black-br-r-balbuze99]
+origin.x = 20
+origin.y = 360
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,5,255)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 350
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (255,0,0)(60,5,255)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-black-gr-r-balbuze99]
+origin.x = 20
+origin.y = 360
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,5)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 350
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (155,0,0)(60,155,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+[large-black-gr-rs-balbuze99]
+origin.x = 20
+origin.y = 360
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,5)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 350
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (255,0,0)(60,255,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-white-gr-r-balbuze99]
+origin.x = 20
+origin.y = 360
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 255,255,255
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,5)(255,0,0)
+bar.filename = 
+bar.width = 18
+bar.height = 350
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (185,0,0)(60,185,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2

@@ -11,6 +11,7 @@
 1280x400+30-30bars-balbuze.zip
 1280x400+99-99bars-balbuze.zip
 1480x320+99-99bars-balbuze.zip
+1920x720+99-99bars-balbuze.zip
 1920x1080+13-Gelo5.zip
 1920x1080+30-Gelo5.zip
 1920x1080+55-Gelo5.zip
