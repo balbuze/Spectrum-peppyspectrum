@@ -1,18 +1,18 @@
-[balbuze_top]
-origin.x = 55
+[balbuze_top-green-red]
+origin.x = 5
 origin.y = 44
 spectrum.x = 0
 spectrum.y = 0
 bgr.type = color
 bgr.color = 80,80,80
 bgr.gradient =
-bgr.filename = 99-bars-freq_5_bgr.png
+bgr.filename = 
 
 bar.type = gradient
 bar.color = 255,0,0
 bar.gradient = (0,255,0)(255,0,0)
-bar.filename = 99-bars-freq_50_indica.png
-bar.width = 6
+bar.filename =
+bar.width = 7
 bar.height = 46
 bar.gap = 1
 
@@ -24,5 +24,64 @@ reflection.gap = 0
 fgr.filename =
 steps = 25
 
-topping.height = 2
+topping.height = 3
+topping.step = 2
+
+[balbuze_top-bl-red]
+origin.x = 5
+origin.y = 44
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 180,80,180
+bgr.gradient =
+bgr.filename = 
+
+bar.type = gradient
+bar.color =
+bar.gradient = (0,2,255)(255,0,0)
+bar.filename =
+bar.width = 7
+bar.height = 46
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 3
+topping.step = 2
+
+
+[balbuze_top-green-orange]
+origin.x = 5
+origin.y = 44
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 180,80,18
+bgr.gradient =
+bgr.filename = 
+
+bar.type = gradient
+bar.color =
+bar.gradient = (0,52,25)(115,133,20)
+bar.filename =
+bar.width = 7
+bar.height = 46
+bar.gap = 1
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 3
 topping.step = 2
