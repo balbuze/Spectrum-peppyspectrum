@@ -1,0 +1,202 @@
+[black-balbuze99]
+origin.x = 55
+origin.y = 420
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = 99-bars-freq_480_bbgr.png
+
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 5
+bar.height = 420
+bar.gap = 2
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+[white-balbuze99]
+origin.x = 55
+origin.y = 420
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = image
+bgr.color =
+bgr.gradient =
+bgr.filename = 99-bars-freq_480_wbgr.png
+
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,0)(255,0,0)
+bar.filename = 
+bar.width = 5
+bar.height = 420
+bar.gap = 2
+
+reflection.type = 
+reflection.color =
+reflection.gradient =
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-black-br-r-balbuze99]
+origin.x = 5
+origin.y = 240
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,5,255)(255,0,0)
+bar.filename = 
+bar.width = 7
+bar.height = 240
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (255,0,0)(60,5,255)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 2
+topping.step = 2
+
+
+[large-black-gr-r-balbuze99]
+origin.x = 5
+origin.y = 240
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (55,185,0)(160,5,2)
+bar.filename = 
+bar.width = 7
+bar.height = 240
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (140,0,0)(55,125,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 43
+
+topping.height = 3
+topping.step = 2
+
+
+
+[large-black-gr-rs-balbuze99]
+origin.x = 5
+origin.y = 240
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 0,0,0
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,5)(255,0,0)
+bar.filename = 
+bar.width = 7
+bar.height = 240
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (255,0,0)(60,255,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 3
+topping.step = 2
+
+[large-withe-gr-r-balbuze99]
+origin.x = 5
+origin.y = 240
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 255,255,255
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (60,255,5)(255,0,0)
+bar.filename = 
+bar.width = 7
+bar.height = 240
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (185,0,0)(60,185,5)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 3
+topping.step = 2
+
+
+[large-green-orange-balbuze99]
+origin.x = 5
+origin.y = 240
+spectrum.x = 0
+spectrum.y = 0
+bgr.type = color
+bgr.color = 180,80,18
+bgr.gradient =
+bgr.filename = 
+bar.type = gradient
+bar.color = 255,0,0
+bar.gradient = (0,52,25)(115,133,20)
+bar.filename = 
+bar.width = 7
+bar.height = 240
+bar.gap = 1
+
+reflection.type = gradient
+reflection.color =
+reflection.gradient = (95,113,20)(0,32,15)
+reflection.filename = 
+reflection.gap = 0
+fgr.filename =
+steps = 25
+
+topping.height = 3
+topping.step = 2
